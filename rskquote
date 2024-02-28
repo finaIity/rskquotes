@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Displaying a Quote</title>
+    <title>Daily Quote</title>
 </head>
 <body>
-    <blockquote>
-        "Love life...regardless of logic, and it's only then one will understand the meaning of it"<br> 
-        <cite>- Fyodor Dostoyevsky</cite>
-    </blockquote>
+    <blockquote id="quote"></blockquote>
+    
+    <script src="script.js"></script>
 </body>
 </html>
