@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Displaying a Quote</title>
+</head>
+<body>
+    <blockquote>
+        "Love life...regardless of logic, and it's only then one will understand the meaning of it" 
+        <cite>- Fyodor Dostoyevsky</cite>
+    </blockquote>
+</body>
+</html>
