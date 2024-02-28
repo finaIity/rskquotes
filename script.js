@@ -1,8 +1,8 @@
 // Array of quotes
 const quotes = [
-    "Love life...regardless of logic, and it's only then one will understand the meaning of it" - Fyodor Dostoyevsky,
-    "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
-    "In the end, it's not the years in your life that count. It's the life in your years. - Abraham Lincoln",
+    "Love life...regardless of logic, and it's only then one will understand the meaning of it"<br>"- Fyodor Dostoyevsky",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts."<br>" - Winston Churchill",
+    "In the end, it's not the years in your life that count. It's the life in your years."<br>" - Abraham Lincoln",
     // Add more quotes as needed
 ];
 
